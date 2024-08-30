@@ -2,6 +2,7 @@
 haha up and down
 # How to use
 Left Trigger is down
+
 Right Trigger is up
 # Requirments
 Utilla
