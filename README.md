@@ -7,4 +7,4 @@ Right Trigger is up
 Utilla
 BananaOS
 # Credits
-Thanks to <color=purple>Veloc1ty</color> for teaching me ho to make this!
+Thanks to Veloc1ty for teaching me ho to make this!
